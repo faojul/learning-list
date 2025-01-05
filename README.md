@@ -28,3 +28,9 @@ Video Courses that I want to complete
    1. https://www.youtube.com/watch?v=6WatcfENsOU
 # 9. Open Source:
    1. https://www.youtube.com/watch?v=mklEhT_RLos
+# 10. Python, Django, Fast API:
+   1. https://www.youtube.com/watch?v=0sOvCWFmrtA / https://www.youtube.com/playlist?list=PL8VzFQ8k4U1L5QpSapVEzoSfob-4CR8zM
+   2. https://www.youtube.com/watch?v=TO4aQ3ghFOc
+   3. https://www.youtube.com/watch?v=7t2alSnE2-I
+   4. https://www.youtube.com/watch?v=o0XbHvKxw7Y
+   5. 

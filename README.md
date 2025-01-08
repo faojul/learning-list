@@ -12,7 +12,10 @@ Video Courses that I want to complete
 # 3. .NET:
    1. https://www.youtube.com/watch?v=fv2-A5e-KHA
    2. https://www.youtube.com/watch?v=rylaiB2uH2A
-   3. 
+
+# 4. Authentication & Authorization
+   1. https://www.youtube.com/playlist?list=PLOeFnOV9YBa4yaz-uIi5T4ZW3QQGHJQXi
+   2. 
 # 4. AWS:
    1. https://dometrain.com/course/cloud-fundamentals-aws-services-for-c-developers/
    2. https://www.youtube.com/playlist?list=PL59L9XrzUa-kl89ThijziX03fgTrbZCd7

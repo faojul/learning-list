@@ -37,3 +37,9 @@ Video Courses that I want to complete
    3. https://www.youtube.com/watch?v=7t2alSnE2-I
    4. https://www.youtube.com/watch?v=o0XbHvKxw7Y
    5. https://www.youtube.com/playlist?list=PL8VzFQ8k4U1IiGUWdBI7s9Y7dm-4tgCXJ
+# 11. Angular:
+   1. https://www.youtube.com/watch?v=QjaNv7s1gW0
+   2. https://www.youtube.com/watch?v=u_dPA-adMkk
+   3. https://www.youtube.com/playlist?list=PL7JmcZV0UQtVNlr8JrjNWzLPtVMjGH_Z2
+   4. https://www.youtube.com/watch?v=z4sN2aIccYM&list=PL7JmcZV0UQtWxJ4sPWTVS6_ZCZgOqELcm&index=1
+   5. https://www.youtube.com/playlist?list=PL7JmcZV0UQtVhsZMI7MEFw7PPzSbYFVEz

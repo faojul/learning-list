@@ -43,3 +43,5 @@ Video Courses that I want to complete
    3. https://www.youtube.com/playlist?list=PL7JmcZV0UQtVNlr8JrjNWzLPtVMjGH_Z2
    4. https://www.youtube.com/watch?v=z4sN2aIccYM&list=PL7JmcZV0UQtWxJ4sPWTVS6_ZCZgOqELcm&index=1
    5. https://www.youtube.com/playlist?list=PL7JmcZV0UQtVhsZMI7MEFw7PPzSbYFVEz
+# 12. Design Pattern:
+   1. https://www.youtube.com/watch?v=rylaiB2uH2A
